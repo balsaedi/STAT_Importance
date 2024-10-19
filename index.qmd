@@ -1,6 +1,6 @@
 ---
-title: "المهارات الإحصائية لخريج الإحصاء "
-author: د. باسم بن صالح الصاعدي
+title: "المهارات المساندة لخريج قسم الإحصاء "
+author: د. باسم بن صالح الصاعدي ^[balsaedi@ut.edu.sa]
 Last update: "your.email@example.com"
 date: 15 Oct 2024 
 format: 
