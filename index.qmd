@@ -1,8 +1,8 @@
 ---
 title: "المهارات المساندة لخريج قسم الإحصاء "
-author: د. باسم بن صالح الصاعدي ^[balsaedi@ut.edu.sa]
+author: د. باسم بن صالح الصاعدي 
 Last update: "your.email@example.com"
-date: 15 Oct 2024 
+date: 19 Oct 2024 
 format: 
   revealjs:
     slide-number: c/t
