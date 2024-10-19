@@ -1,0 +1,140 @@
+---
+title: "المهارات الإحصائية لخريج الإحصاء "
+author: د. باسم بن صالح الصاعدي
+Last update: "your.email@example.com"
+date: 15 Oct 2024 
+format: 
+  revealjs:
+    slide-number: c/t
+    chalkboard: true
+    pdf-max-pages-per-slide: 2
+    footer: "اليوم العالمي للإحصاء - قسم الاحصاء (جامعة تبوك)"
+    transition: slide
+    title-slide-attributes: 
+      data-background-image: background.jpg
+---
+::: {.incremental}
+
+1. التفكير النقدي وحل المشكلات
+
+2. الاحترافية التقنية
+
+3. مهارات التواصل
+
+4. التعليم المستمر
+
+5. التعاون
+
+6. تصوير البيانات
+
+:::
+
+##  ايش هي الوظائف المتاحة
+![](unnamed (1).jpg){width="20%"}
+![](unnamed (2).jpg){width="20%"}
+![](unnamed (3).jpg){width="20%"}
+![](unnamed (4).jpg){width="20%"}
+![](unnamed (5).jpg){width="20%"}
+![](unnamed (6).jpg){width="20%"}
+
+
+##
+![](unnamed (7).jpg){width="20%"}
+![](unnamed (8).jpg){width="20%"}
+![](unnamed (9).jpg){width="20%"}
+![](unnamed (10).jpg){width="20%"}
+![](unnamed (11).jpg){width="20%"}
+![](unnamed (12).jpg){width="20%"}
+
+
+##
+![](unnamed (13).jpg){width="20%"}
+![](unnamed (14).jpg){width="20%"}
+![](unnamed (15).jpg){width="20%"}
+![](unnamed (16).jpg){width="20%"}
+
+##
+
+![](unnamed (17).jpg){width="20%"}
+![](unnamed (18).jpg){width="20%"}
+![](unnamed.jpg){width="40%"}
+
+
+# Power Bi
+
+![](pngwing.com.png){width="40%"}
+
+
+##
+
+![](hr-1.png){width="100%"}
+
+##
+
+![](hr-3.png){width="100%"}
+
+##
+
+
+![](power-bi-ai-sample-report-large.png){width="100%"}
+
+##
+
+![](power-bi-drill-down.png){width="100%"}
+
+##
+
+![](power-bi-map-hover.png){width="100%"}
+
+
+
+##
+
+![](power-bi-sales-overview.png){width="100%"}
+
+
+##
+
+![](power-bi-select-product.png){width="100%"}
+
+##
+
+![](power-bi-store-sales.png){width="100%"}
+
+## الدورات والشهادات
+
+
+![](Screenshot 2024-10-19 152521.png){width="100%"}
+
+##
+
+![](Screenshot 2024-10-19 152725.png){width="100%"}
+
+## 
+
+![](Screenshot 2024-10-19 152437.png){width="100%"}
+
+# Tableau 
+
+![](2622ff960f179f0d7d7af1900044992c.png){width="100%"}
+
+##
+
+![](Screenshot 2024-10-19 153742.png){width="100%"}
+
+## SPSS
+
+![](2869d5492aa0181c8cd1ab16e8d73462.png){width="100%"}
+
+##
+
+![](Screenshot 2024-10-19 154810.png){width="100%"}
+
+##
+
+![](Screenshot 2024-10-19 154943.png){width="100%"}
+
+
+##
+
+![](158BB.png){fig-align=center width="100%"}
