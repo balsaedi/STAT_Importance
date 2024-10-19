@@ -29,7 +29,7 @@ format:
 
 :::
 
-##  ايش هي الوظائف المتاحة
+##  نماذج من  الوظائف المتاحة
 ![](unnamed (1).jpg){width="20%"}
 ![](unnamed (2).jpg){width="20%"}
 ![](unnamed (3).jpg){width="20%"}
